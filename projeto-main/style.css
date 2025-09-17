@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(252, 252, 252);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+   /*alternamos a cor de fundo*/
+  /*
